@@ -1,7 +1,7 @@
 ### Blog_App
 
 #### Front-end Link
-###### https://chat-app-frontend-c13s.onrender.com
+###### https://blog-app-1-g4lt.onrender.com
 
 #### Back-end Link
-###### https://chat-app-backend-6i0w.onrender.com
+###### https://blog-app-hi1u.onrender.com
